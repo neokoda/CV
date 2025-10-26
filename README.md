@@ -1,5 +1,9 @@
 # IF5152 Computer Vision - Tugas Individu
 
+## Identitas
+- Nama: Muhammad Neo Cicero Koda
+- NIM: 13522108
+
 Repositori ini berisi pengerjaan Tugas Individu IF5152 Computer Vision yang berisi materi berupa:
 1.  Image Filtering
 2.  Edge Detection
