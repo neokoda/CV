@@ -1,0 +1,13 @@
+Image,Method,Parameter,Output File
+coins,Sobel Magnitude,ksize=3,output/coins_sobel_k3.png
+chelsea,Sobel Magnitude,ksize=3,output/chelsea_sobel_k3.png
+coins,Sobel Magnitude,ksize=5,output/coins_sobel_k5.png
+chelsea,Sobel Magnitude,ksize=5,output/chelsea_sobel_k5.png
+coins,Sobel Magnitude,ksize=7,output/coins_sobel_k7.png
+chelsea,Sobel Magnitude,ksize=7,output/chelsea_sobel_k7.png
+coins,Canny,"low=50, high=150",output/coins_canny_50_150.png
+chelsea,Canny,"low=50, high=150",output/chelsea_canny_50_150.png
+coins,Canny,"low=100, high=200",output/coins_canny_100_200.png
+chelsea,Canny,"low=100, high=200",output/chelsea_canny_100_200.png
+coins,Canny,"low=200, high=400",output/coins_canny_200_400.png
+chelsea,Canny,"low=200, high=400",output/chelsea_canny_200_400.png

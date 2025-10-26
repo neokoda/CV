@@ -1,0 +1,19 @@
+Image,Filter,Parameter,Output File
+cameraman,Gaussian,"ksize=(3, 3)",output/cameraman_gauss_k3.png
+astronaut,Gaussian,"ksize=(3, 3)",output/astronaut_gauss_k3.png
+cameraman,Gaussian,"ksize=(7, 7)",output/cameraman_gauss_k7.png
+astronaut,Gaussian,"ksize=(7, 7)",output/astronaut_gauss_k7.png
+cameraman,Gaussian,"ksize=(11, 11)",output/cameraman_gauss_k11.png
+astronaut,Gaussian,"ksize=(11, 11)",output/astronaut_gauss_k11.png
+cameraman,Median,ksize=3,output/cameraman_median_k3.png
+astronaut,Median,ksize=3,output/astronaut_median_k3.png
+cameraman,Median,ksize=5,output/cameraman_median_k5.png
+astronaut,Median,ksize=5,output/astronaut_median_k5.png
+cameraman,Median,ksize=9,output/cameraman_median_k9.png
+astronaut,Median,ksize=9,output/astronaut_median_k9.png
+cameraman,Sobel X,ksize=3,output/cameraman_sobel_x_k3.png
+cameraman,Sobel Y,ksize=3,output/cameraman_sobel_y_k3.png
+cameraman,Sobel Magnitude,ksize=3,output/cameraman_sobel_mag_k3.png
+astronaut,Sobel X,ksize=3,output/astronaut_sobel_x_k3.png
+astronaut,Sobel Y,ksize=3,output/astronaut_sobel_y_k3.png
+astronaut,Sobel Magnitude,ksize=3,output/astronaut_sobel_mag_k3.png
